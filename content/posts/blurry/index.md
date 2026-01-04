@@ -1,15 +1,18 @@
 ---
-title: HTB - Blurry
+title: "HTB - Blurry"
 description: HTB - Blurry
-publishDate: 2024-02-02
+date: 2024-02-02
 tags:
-  - HackTheBox
   - CVE-2024-24590
   - ClearML
   - pickle-files
   - pth-files
   - artifact
   - API
+cover:
+    image: featured.png
+ShowToc: true
+TocOpen: true
 ---
 
 ## Box Info

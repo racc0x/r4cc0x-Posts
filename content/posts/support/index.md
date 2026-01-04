@@ -16,6 +16,10 @@ tags:
   - PsExec
 description: Support
 draft: false
+cover:
+    image: featured.png
+ShowToc: true
+TocOpen: true
 ---
 
 

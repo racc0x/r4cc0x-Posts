@@ -12,6 +12,10 @@ tags:
 
 description: Tentacle
 draft: false
+cover:
+    image: featured.png
+ShowToc: true
+TocOpen: true
 ---
 
 ```bash

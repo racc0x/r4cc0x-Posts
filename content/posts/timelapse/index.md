@@ -12,6 +12,10 @@ tags:
   - Enumerate
 description: Timelapse
 draft: false
+cover:
+    image: featured.png
+ShowToc: true
+TocOpen: true
 ---
 
 

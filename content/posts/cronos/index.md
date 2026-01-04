@@ -13,6 +13,8 @@ tags:
     - PHP
 description: Cronos
 draft: false
+cover:
+  image: featured.png
 ---
 
 ```zsh

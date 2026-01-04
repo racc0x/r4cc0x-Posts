@@ -12,7 +12,10 @@ tags:
   - SQL
   - ImageMagick
   - Path-Traversal
-
+cover:
+  image: featured.png
+ShowToc: true
+TocOpen: true
 ---
 
 ## Box Info

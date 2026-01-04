@@ -7,7 +7,8 @@ tags:
   - CMS-pluck
   - RCE
   - User-Agent
-
+cover:
+  image: featured.png
 ---
 
 ## Box Info

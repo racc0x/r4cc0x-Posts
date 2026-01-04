@@ -8,7 +8,10 @@ tags:
   - SSRF
   - Python
   - Git
-
+cover:
+  image: featured.png
+ShowToc: true
+TocOpen: true
 ---
 
 ## Box Info

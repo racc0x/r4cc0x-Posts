@@ -13,7 +13,10 @@ tags:
   - decrypt
   - CVE-2025-27591
   - Misconfiguration
-
+cover:
+    image: featured.png
+ShowToc: true
+TocOpen: true
 ---
 
 ## Box Info

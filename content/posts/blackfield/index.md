@@ -3,7 +3,10 @@ title:  HTB - Blackfield
 publishDate: 2025-07-11
 description: HTB - Blackfield
 tags: [HackTheBox, information-leakage, kerbrute, kerberoasting, ASREPRoasting, DACL, ForceChangePassword, Bloodhound, BackupPrivilege, robocopy, diskshadow, ntds]
-image: Blackfield.png
+cover:
+  image: featured.png
+ShowToc: true
+TocOpen: true
 ---
 
 ## Box Info

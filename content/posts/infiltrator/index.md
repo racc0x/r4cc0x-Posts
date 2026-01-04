@@ -1,9 +1,12 @@
 ---
 title:  HTB - Infiltrator
 description: HTB - Infiltrator
-publishDate: 2025-06-16 12:17:34 -0400
+date: 2025-06-16 12:17:34 -0400
 tags: [HackTheBox, ASREP Roasting, Active Directory, kerbrute, john, RDP, rpc, password spraying, bloodhound, OU, shadow credentials, AddSelf, ForceChangePassword, TGT, Output Messenger, Pivoting, Output Wall, Decrypting, DB, database, API, RCE, wireshark, BitLocker, hashcat, NTDS, ReadGMSAPassword, gMSADumper, ESC4, ADCS, Insane]
-
+cover:
+    image: featured.png
+ShowToc: true
+TocOpen: true
 ---
 
 ## Box Info

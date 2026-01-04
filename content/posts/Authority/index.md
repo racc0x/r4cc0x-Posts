@@ -20,6 +20,10 @@ tags:
   - secretsdump
 description: Authority
 draft: false
+cover:
+    image: featured.png
+ShowToc: true
+TocOpen: true
 ---
 
 

@@ -10,6 +10,10 @@ tags:
   - CVE-2024-42327
   - API
   - CVE-2024-36467
+cover:
+    image: featured.jpg
+ShowToc: true
+TocOpen: true
 ---
 
 ## Box Info

@@ -9,7 +9,8 @@ tags:
   - CVE-2024-23346
   - Pymatgen-Library
   - chisel
-
+cover:
+  image: featured.png
 ---
 
 ## Box Info

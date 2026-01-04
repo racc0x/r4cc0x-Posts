@@ -9,6 +9,8 @@ tags:
   - FootPrinting
 description: Cypher
 draft: false
+cover:
+  image: featured.png
 ---
 
 Enumeration Nmap

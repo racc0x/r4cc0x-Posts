@@ -9,7 +9,10 @@ tags:
   - Information-Disclosure
   - CVE-2021-4034
   - tcpdump
-
+cover:
+  image: featured.png
+ShowToc: true
+TocOpen: true
 ---
  
 ## Box Info

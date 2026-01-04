@@ -15,7 +15,10 @@ tags:
   - RCE
   - CC
   - ssh
-
+cover:
+  image: featured.png
+ShowToc: true
+TocOpen: true
 ---
 
 ## Box Info

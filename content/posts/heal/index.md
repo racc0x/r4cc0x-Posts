@@ -1,10 +1,13 @@
 ---
 title:  HTB - Heal
 description:  HTB - Heal
-publishDate: 2025-02-02
+date: 2025-02-02
 categories: [HackTheBox]
 tags: [HackTheBox, Directory Traversal, cracking, RCE, CVE-2021-44967, Hashicorp Consul v1.0]
-
+cover:
+    image: featured.png
+ShowToc: true
+TocOpen: true
 ---
 
 ## Box Info

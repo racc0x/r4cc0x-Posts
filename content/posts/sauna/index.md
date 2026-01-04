@@ -4,6 +4,10 @@ description: HTB - Sauna
 publishDate: 2025-06-08
 tags:
   - HackTheBox
+cover:
+    image: featured.png
+ShowToc: true
+TocOpen: true
 ---
 
 ## Box Info

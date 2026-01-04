@@ -15,6 +15,10 @@ tags:
   - winlogon
 description: Helpline
 draft: false
+cover:
+    image: featured.png
+ShowToc: true
+TocOpen: true
 ---
 
 

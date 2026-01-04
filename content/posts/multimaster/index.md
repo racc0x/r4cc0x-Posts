@@ -26,7 +26,10 @@ tags:
   - cefdebug
   - CVE-2019-1414
   - CVE-2020-1472
-
+cover:
+    image: featured.png
+ShowToc: true
+TocOpen: true
 ---
 
 ## Box Info

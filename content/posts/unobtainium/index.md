@@ -20,7 +20,11 @@ tags:
   - Information
   - Leakage
   - Prototype-Pollution
-
+draft: false
+cover:
+    image: featured.png
+ShowToc: true
+TocOpen: true
 ---
 
 ## Box Info

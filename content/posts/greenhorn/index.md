@@ -3,7 +3,10 @@ title:  "HTB - GreenHorn"
 description: HTB - GreenHorn.
 publishDate: 2024-02-02
 tags: [HackTheBox, CMS pluck, RCE, User-Agent]
- 
+cover:
+    image: featured.png
+ShowToc: true
+TocOpen: true
 ---
 
 ## Box Info

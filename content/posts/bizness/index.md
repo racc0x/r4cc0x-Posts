@@ -16,6 +16,10 @@ tags:
   - CVE-2023-49070
   - linux
 image: bizness-card.png
+cover:
+  image: featured.png
+ShowToc: true
+TocOpen: true
 ---
 
 ## Box Info

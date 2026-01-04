@@ -3,7 +3,11 @@ title:  HTB - UnderPass
 description:  HTB - UnderPass
 publishDate: 2025-02-02
 tags: [HackTheBox, docker, mosh, daloradius, container, UDP]
-
+draft: false
+cover:
+    image: featured.png
+ShowToc: true
+TocOpen: true
 ---
 
 ## Box Info

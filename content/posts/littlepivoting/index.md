@@ -13,7 +13,10 @@ tags:
   - Remote-Port-Forwarding
   - SUID
   - Abusing-File-Upload
-
+cover:
+    image: featured.png
+ShowToc: true
+TocOpen: true
 ---
 
 ## Box Info

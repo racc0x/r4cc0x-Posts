@@ -11,7 +11,10 @@ tags:
   - Ethereum
   - Decode
   - Misconfiguration
-
+cover:
+  image: featured.png
+ShowToc: true
+TocOpen: true
 ---
 
 ## Box Info

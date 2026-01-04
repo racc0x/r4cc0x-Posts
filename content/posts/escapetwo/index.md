@@ -16,7 +16,10 @@ tags:
   - kerberos
   - shadow-credentials
   - NTLM
-
+cover:
+  image: featured.png
+ShowToc: true
+TocOpen: true
 ---
  
 ## Box Info

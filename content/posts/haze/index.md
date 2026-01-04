@@ -1,9 +1,12 @@
 ---
-title:  HTB - Haze
+title:  "HTB - Haze"
 description:  HTB - Haze
-publishDate: 2025-02-02
+date: 2025-02-02
 tags: [HackTheBox, splunk, CVE-2024-36991, path traversal, cracking, brute force, password spraying, bloodhound, DACL, sMSADumper, shadow credential, Godpotato, information leakage]
-
+cover:
+    image: featured.png
+ShowToc: true
+TocOpen: true
 ---
 
 ## Box Info

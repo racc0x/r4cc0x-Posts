@@ -14,6 +14,10 @@ tags:
   - evil-winrm
 description: Escape
 draft: false
+cover:
+    image: featured.png
+ShowToc: true
+TocOpen: true
 ---
 
 ```zsh

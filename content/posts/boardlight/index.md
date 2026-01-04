@@ -11,7 +11,10 @@ tags:
   - CVE-2023-30253
   - LinPEAS
   - CVE-2022-37706
-
+cover:
+    image: featured.png
+ShowToc: true
+TocOpen: true
 ---
 
 ## Box Info

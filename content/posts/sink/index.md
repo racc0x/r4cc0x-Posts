@@ -14,7 +14,11 @@ tags:
   - Cookie-Hijacking
   - Infomration-leakage
   - pspy
- 
+draft: false
+cover:
+    image: featured.png
+ShowToc: true
+TocOpen: true
 ---
 
 ## Box Info

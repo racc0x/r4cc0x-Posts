@@ -11,6 +11,8 @@ tags:
   - SecretsDump
 description: Cicada
 draft: false
+cover:
+  image: featured.png
 ---
 
 

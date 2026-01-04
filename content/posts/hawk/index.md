@@ -9,6 +9,10 @@ tags:
     - RCE
 description: Hawk
 draft: false
+cover:
+    image: featured.png
+ShowToc: true
+TocOpen: true
 ---
 
 ```bash

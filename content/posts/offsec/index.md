@@ -4,6 +4,10 @@ date: 2020-02-21
 tags: []
 description: Offensive Security CheatSheet
 draft: false
+cover:
+    image: featured.png
+ShowToc: true
+TocOpen: true
 ---
 _Inspiration and Credits [s4thv1k-oscp-cheatsheet](https://s4thv1k.com/posts/oscp-cheatsheet/)_
 

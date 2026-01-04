@@ -20,7 +20,10 @@ tags:
   - sqlinjection
   - powershell
   - winPEAS
-
+cover:
+  image: featured.png
+ShowToc: true
+TocOpen: true
 ---
 
 ## Box Info
